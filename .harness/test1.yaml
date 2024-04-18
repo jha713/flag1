@@ -1,0 +1,8 @@
+pipeline:
+  name: test1
+  identifier: test1
+  projectIdentifier: demo
+  orgIdentifier: default
+  tags: {}
+  stages:
+    - test: 1
